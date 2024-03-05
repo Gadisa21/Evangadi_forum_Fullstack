@@ -1,0 +1,22 @@
+.homp{
+    margin-top: 84px;
+    
+}
+.hed{
+    padding-top: 45px;
+
+}
+
+
+.qb{
+    background-color:#516CF0!important ;
+    width: 200px;
+    height: 40px;
+     border: none;
+     border-radius: 5px;
+}
+.question:hover{ 
+    background-color: #FE8402!important;
+    border: #FE8402!important;
+}
+

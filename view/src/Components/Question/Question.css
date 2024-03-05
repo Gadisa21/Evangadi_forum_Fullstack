@@ -1,0 +1,11 @@
+.vertical-center-text{
+    display: flex;
+    align-items: center;
+    
+}
+.top_question{
+    height: 150px;
+}
+.user{
+    margin-bottom: 5px;
+}
